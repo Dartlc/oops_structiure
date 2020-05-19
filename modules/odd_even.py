@@ -9,7 +9,3 @@ class OddEven:
             print(f"{input_value} is even number")
         else:
             print(f"{input_value} is odd number")
-
-
-if __name__ == '__main__':
-    obj = OddEven()

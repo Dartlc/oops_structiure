@@ -1,2 +1,5 @@
 ### environment ###
-oopsEnv
+pythonEnv
+
+###pycache###
+__pycache__
